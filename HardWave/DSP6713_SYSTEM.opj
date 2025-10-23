@@ -130,7 +130,8 @@
     ("Allegro Setup Part Type Length" "255")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Layout"
     (File ".\allegro\dsp6713systemmini.brd"
       (Type "Board File")
@@ -279,6 +280,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\dsp6713_system.dsn")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "CLOCK")
       (Path "Design Resources" ".\dsp6713_system.dsn" "POWER")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "d:\cadence\lib\sch\basic.olb")
@@ -291,22 +293,25 @@
       (Path "Design Resources" "Library" "d:\cadence\lib\sch\maincontrol.olb")
       (Path "Design Resources" "Library" "d:\cadence\lib\sch\codec.olb")
       (Path "Layout")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\dsp6713_system.dsn" "CLOCK" "CY2303"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 263 0 600"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 265 0 600"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1349 26 620")
-        (Scroll "-76 0")
-        (Zoom "100"))
-      (Path "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.DSN")
-      (Schematic "POWER")
-      (Page "POWER")))
+        (Placement "44 0 1 -1 -1 -1 -1 5 1347 26 620")
+        (Scroll "-168 0")
+        (Zoom "100")
+        (Occurrence "/CLK_SOURCE"))
+      (Path
+         "D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "CLOCK")
+      (Page "CY2303")))
   (LastUsedLibraryBrowseDirectory
      "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

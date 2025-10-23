@@ -1,0 +1,605 @@
+Date and Time : 10/23/25 14:39:23
+
+--------------------------------------------------
+Checking Schematic: TOP
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+    CS4272_MCLK
+    DSP_CLKIN
+    CS4272_RESET
+    MCBSP_CLKIN
+
+Reporting Globals
+    GND
+    VCC1V2
+    VCC3V3
+
+Reporting Net Names
+    ED6
+    R_ED22
+    R_ED23
+    R_EA17
+    EA15
+    EA11
+    R_ED19
+    R_EA4
+    ED17
+    ED29
+    EA17
+    EA3
+    R_EA12
+    ED19
+    BE0
+    R_ED15
+    CE2
+    ED3
+    R_ED31
+    AOE
+    ED31
+    R_EA13
+    ECLKOUT
+    R_AWE
+    R_ED16
+    R_ED27
+    ED11
+    R_EA5
+    ED26
+    BE3
+    ED5
+    R_EA3
+    ED30
+    VCC3V3
+    ED27
+    ED21
+    CE3
+    R_ED20
+    EA4
+    R_EA16
+    EA18
+    ED10
+    ED1
+    R_EA7
+    ARDY
+    HOLDA
+    R_EA10
+    EA10
+    R_ED24
+    R_ED8
+    R_ED25
+    BE2
+    R_ED2
+    R_ED12
+    R_EA2
+    R_ARE
+    EA8
+    EA16
+    EA19
+    ED25
+    EA6
+    R_EA11
+    EA9
+    R_EA9
+    ED23
+    R_ED21
+    ED20
+    ED13
+    R_ECLKOUT
+    EA12
+    R_EA6
+    ED15
+    R_ED14
+    ED4
+    R_ED5
+    R_ED6
+    R_ED26
+    ED9
+    R_ED28
+    R_EA8
+    R_ED11
+    R_AOE
+    R_ED29
+    EA5
+    ED18
+    ED2
+    ED24
+    R_EA15
+    CKE
+    ED0
+    R_ED3
+    ED16
+    ED7
+    BE1
+    EA14
+    R_EA19
+    R_ED1
+    CE0
+    R_ED13
+    R_ED9
+    GND
+    R_ED7
+    R_ED10
+    EA2
+    R_ED4
+    ED8
+    ED28
+    ED14
+    ARE
+    R_EA18
+    R_ED0
+    EA7
+    R_EA14
+    R_ED17
+    EA20
+    EA13
+    CE1
+    R_EA20
+    ED12
+    HOLD
+    ED22
+    BUSRQ
+    R_ED18
+    R_ED30
+    AWE
+    VCC1V2
+    N2645674
+    N12878
+    CS4272_RESET
+    FSR1
+    N12742
+    N2260305
+    SDA0
+    CS4272_LRCLK
+    N12718
+    N2260234
+    N12917
+    CS4272_SCLK
+    SCL_M0
+    N12905
+    CS4272_SDOUT
+    SDA_M1
+    CLKS1_SCL1
+    CLKX1
+    CS4272_SDIN
+    N12893
+    FSX1
+    CS4272_MCLK
+    CLKR1
+    DX1
+    N2260343
+    N12730
+    SCL0
+    N12760
+    MCBSP_CLKIN
+    DR1_SDA1
+    DSP_TDO
+    DSP_PLLHV
+    CLKOUT2
+    TOUT1
+    DSP_HD14
+    DSP_TCK
+    TINP1
+    DSP_HD4
+    CLKOUT3
+    DSP_HD12
+    N2620436
+    N2620476
+    N2620612
+    DSP_EMU0
+    DSP_GP13
+    GP_INT7
+    N2620862
+    DSP_TMS
+    TINP0
+    DSP_HD3
+    DSP_GP15
+    GP_INT6
+    DSP_EMU1
+    DSP_PLL_FB3V3
+    DSP_TRST#
+    GP_INT4
+    DSP_TDI
+    N2620548
+    NMI
+    TOUT0
+    GP_INT5
+    DSP_CLKIN
+    DSP_HD8
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: CODEC
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    CS_AOUT_LN
+    CS_AOUT_LP
+    SCL_M0
+    SDA_M1
+    CS_AOUT_RN
+    CS_AOUT_RP
+    CS_AIN_LN
+    CS_AIN_LP
+    CS_AIN_RN
+    CS_AIN_RP
+    CS4272_SDOUT
+    CS4272_SCLK
+    CS4272_SDIN
+    CS4272_LRCLK
+    CS4272_RESET
+    CS4272_MCLK
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC5V
+    GND
+    VCC3V3
+
+Reporting Net Names
+    N2256458
+    CS_AIN_LN
+    VCC3V3
+    CS4272_MCLK
+    N2255978
+    CS_AOUT_RN
+    VCC5V
+    CS_AIN_RN
+    CS_AOUT_LP
+    N2256236
+    MSMODE
+    GND
+    CS4272_SDIN
+    CS4272_LRCLK
+    CS4272_SDOUT
+    CS4272_RESET
+    SCL_M0
+    CS_AIN_RP
+    SDA_M1
+    CS_AIN_LP
+    CS_AOUT_LN
+    CS_AOUT_RP
+    CS4272_SCLK
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: ANALOG_OUTPUT
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    CS_AOUT_LN
+    CS_AOUT_LP
+    CS_AOUT_RN
+    CS_AOUT_RP
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC12VN
+    VCC12VP
+    GND
+
+Reporting Net Names
+    N10981
+    N12603
+    N07398
+    CS_AOUT_LN
+    N16799
+    N10021
+    N16199
+    N14540
+    N16175
+    N16643
+    N16263
+    CS_AOUT_RN
+    N14552
+    N16135
+    N14528
+    N16143
+    N16567
+    N16167
+    N16247
+    N10389
+    N14976
+    N16555
+    GND
+    ROUT
+    LOUT
+    N10969
+    N13302
+    CS_AOUT_RP
+    CS_AOUT_LP
+    N16271
+    N15176
+    N13358
+    VCC12VP
+    VCC12VN
+    N09281
+    N16367
+    N16811
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: CLOCK
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    REF_OUT
+    REFx2_OUT
+    REFx4_OUT
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC5V
+    GND
+    VCC3V3
+
+Reporting Net Names
+    N13064
+    REF_OUT
+    N13971
+    N13975
+    VCC5V
+    REFX4_OUT
+    REFIN
+    REFX2_OUT
+    OSC_VCC5V
+    CY_VDD3V3
+    VCC3V3
+    OSC_CLK
+    GND
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: ANALOG_INPUT
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    CS_AIN_LN
+    CS_AIN_LP
+    CS_AIN_RN
+    CS_AIN_RP
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC5V
+    VCC12VN
+    VCC12VP
+    GND
+
+Reporting Net Names
+    N02684
+    N02930
+    CS_AIN_RP
+    N01013
+    VCC12VP
+    N01316
+    CS_AIN_RN
+    N02644
+    N02890
+    CS_AIN_LN
+    GND
+    N02974
+    N02806
+    N01331
+    VCC12VN
+    N00773
+    LIN
+    CS_AIN_LP
+    VCC5V
+    N01577
+    N02022
+    RIN
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+--------------------------------------------------
+Checking Schematic: POWER
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC5V
+    VCC12VN
+    VCC12VP
+    GND
+    VCC1V2
+    VCC3V3
+
+Reporting Net Names
+    VCC3V3
+    GND1V2
+    VCC12VN
+    VCC5V
+    GND
+    VCC12VP
+    VCC1V2
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: TOP
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: CODEC
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: ANALOG_OUTPUT
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: CLOCK
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: ANALOG_INPUT
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Schematic: POWER
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: DSP6713_SYSTEM 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

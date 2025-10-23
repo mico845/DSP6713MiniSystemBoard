@@ -1,0 +1,312 @@
+(ExpressProject "DSP6713_SYSTEM"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S005 (4113640)  [6/9/2023]-[10/23/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "d:\cadence\lib\sch\basic.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\crystal.olb"
+        (Type "Schematic Library"))
+      (File "D:\Cadence\lib\sch\OPA.OLB"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\connector.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\power.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\test.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\memory.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\maincontrol.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\codec.olb"
+        (Type "Schematic Library"))
+      (File "d:\cadence\lib\sch\filter.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\dsp6713_system.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}{Package}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "FALSE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "FALSE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.DRC")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB FootPrint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPCB FootPrint")
+    (BOM_Include_File "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\dsp6713_system.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\dsp6713systemmini.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\dsp6713systemmini.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\dsp6713_system.drc"
+      (Type "Report"))
+    (File ".\dsp6713_system.bom"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (M25-HOLE
+      (FullPartName "M25-HOLE.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CON5 PWR DIN-422"
+      (FullPartName "CON5 PWR DIN-422.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OSC_DIP14
+      (FullPartName "OSC_DIP14.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CRYSTAL.OLB")
+      (DeviceIndex "0"))
+    (CS4272
+      (FullPartName "CS4272.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CODEC.OLB")
+      (DeviceIndex "0"))
+    (CY2303
+      (FullPartName "CY2303.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CRYSTAL.OLB")
+      (DeviceIndex "0"))
+    ("LED SMD0805"
+      (FullPartName "LED SMD0805.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    ("EMI FILTER 25MHZ SMD"
+      (FullPartName "EMI FILTER 25MHZ SMD.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\FILTER.OLB")
+      (DeviceIndex "0"))
+    (SST39VF800A
+      (FullPartName "SST39VF800A.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\MEMORY.OLB")
+      (DeviceIndex "0"))
+    (MT48LC2M32B2B5-6
+      (FullPartName "MT48LC2M32B2B5-6.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\MEMORY.OLB")
+      (DeviceIndex "0"))
+    (TP_SS
+      (FullPartName "TP_SS.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\TEST.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6x2"
+      (FullPartName "HEADER 6x2.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5x2"
+      (FullPartName "HEADER 5x2.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6X2"
+      (FullPartName "HEADER 6X2.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    (SW
+      (FullPartName "SW.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-DPST"
+      (FullPartName "SW PUSHBUTTON-DPST.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FB
+      (FullPartName "FB.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    ("EMI FILTER"
+      (FullPartName "EMI FILTER.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\POWER.OLB")
+      (DeviceIndex "0"))
+    (C_POL
+      (FullPartName "C_POL.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\BASIC.OLB")
+      (DeviceIndex "0"))
+    (JTAG_14
+      (FullPartName "JTAG_14.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5x1"
+      (FullPartName "HEADER 5x1.Normal")
+      (LibraryName "D:\CADENCE\LIB\SCH\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName
+         "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "11208")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\dsp6713_system.dsn")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "POWER")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\basic.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\crystal.olb")
+      (Path "Design Resources" "Library" "D:\Cadence\lib\sch\OPA.OLB")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\connector.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\power.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\test.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\memory.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\maincontrol.olb")
+      (Path "Design Resources" "Library" "d:\cadence\lib\sch\codec.olb")
+      (Path "Layout")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 263 0 600"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1349 26 620")
+        (Scroll "-76 0")
+        (Zoom "100"))
+      (Path "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.DSN")
+      (Schematic "POWER")
+      (Page "POWER")))
+  (LastUsedLibraryBrowseDirectory
+     "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))

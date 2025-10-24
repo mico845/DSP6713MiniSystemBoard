@@ -1,0 +1,228 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd         |
+|                                                    Fri Oct 24 15:39:58 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  AWE          pins MOVED FROM this net (to net name listed on right)
+                                 R35.1                          
+                                                                            EA9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CE1          pins MOVED FROM this net (to net name listed on right)
+                                 R27.1                          
+                                                                            EA5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DSP_PLLHV    pins MOVED FROM this net (to net name listed on right)
+                                 C1.1                           
+                                                                            GND
+                                 C2.2                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA2          pins MOVED FROM this net (to net name listed on right)
+                                 R26.4                          
+                                                                           ED19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA3          pins MOVED FROM this net (to net name listed on right)
+                                 R26.3                          
+                                                                           ED18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA4          pins MOVED FROM this net (to net name listed on right)
+                                 R26.2                          
+                                                                           ED17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA5          pins MOVED FROM this net (to net name listed on right)
+                                 R26.1                          
+                                                                           ED16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA6          pins MOVED FROM this net (to net name listed on right)
+                                 R34.3                          
+                                                                           ED22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA7          pins MOVED FROM this net (to net name listed on right)
+                                 R34.4                          
+                                                                           ED23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA8          pins MOVED FROM this net (to net name listed on right)
+                                 R34.2                          
+                                                                           ED21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EA9          pins MOVED FROM this net (to net name listed on right)
+                                 R34.1                          
+                                                                           ED20
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd         |
+|                                                    Fri Oct 24 15:39:58 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ED0          pins MOVED FROM this net (to net name listed on right)
+                                 R24.1                          
+                                                                            CE1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED1          pins MOVED FROM this net (to net name listed on right)
+                                 R24.2                          
+                                                                         VCC3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED4          pins MOVED FROM this net (to net name listed on right)
+                                 R32.1                          
+                                                                            AWE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED5          pins MOVED FROM this net (to net name listed on right)
+                                 R32.2                          
+                                                                         VCC3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED16         pins MOVED FROM this net (to net name listed on right)
+                                 R25.1                          
+                                                                            ED0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED17         pins MOVED FROM this net (to net name listed on right)
+                                 R25.2                          
+                                                                            ED1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED18         pins MOVED FROM this net (to net name listed on right)
+                                 R25.3                          
+                                                                            ED2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED19         pins MOVED FROM this net (to net name listed on right)
+                                 R25.4                          
+                                                                            ED3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED20         pins MOVED FROM this net (to net name listed on right)
+                                 R33.1                          
+                                                                            ED4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED21         pins MOVED FROM this net (to net name listed on right)
+                                 R33.2                          
+                                                                            ED5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED22         pins MOVED FROM this net (to net name listed on right)
+                                 R33.3                          
+                                                                            ED6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ED23         pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd         |
+|                                                    Fri Oct 24 15:39:58 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R33.4                          
+                                                                            ED7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 C1.2                           
+                                                                      DSP_PLLHV
+                                 C2.1                           
+                                                                      DSP_PLLHV
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA2        pins MOVED FROM this net (to net name listed on right)
+                                 R26.5                          
+                                                                         R_ED19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA3        pins MOVED FROM this net (to net name listed on right)
+                                 R26.6                          
+                                                                         R_ED18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA4        pins MOVED FROM this net (to net name listed on right)
+                                 R26.7                          
+                                                                         R_ED17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA5        pins MOVED FROM this net (to net name listed on right)
+                                 R26.8                          
+                                                                         R_ED16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA6        pins MOVED FROM this net (to net name listed on right)
+                                 R34.6                          
+                                                                         R_ED22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA7        pins MOVED FROM this net (to net name listed on right)
+                                 R34.5                          
+                                                                         R_ED23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA8        pins MOVED FROM this net (to net name listed on right)
+                                 R34.7                          
+                                                                         R_ED21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_EA9        pins MOVED FROM this net (to net name listed on right)
+                                 R34.8                          
+                                                                         R_ED20
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED16       pins MOVED FROM this net (to net name listed on right)
+                                 R25.8                          
+                                                                          R_ED0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd         |
+|                                                    Fri Oct 24 15:39:58 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  R_ED17       pins MOVED FROM this net (to net name listed on right)
+                                 R25.7                          
+                                                                          R_ED1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED18       pins MOVED FROM this net (to net name listed on right)
+                                 R25.6                          
+                                                                          R_ED2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED19       pins MOVED FROM this net (to net name listed on right)
+                                 R25.5                          
+                                                                          R_ED3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED20       pins MOVED FROM this net (to net name listed on right)
+                                 R33.8                          
+                                                                          R_ED4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED21       pins MOVED FROM this net (to net name listed on right)
+                                 R33.7                          
+                                                                          R_ED5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED22       pins MOVED FROM this net (to net name listed on right)
+                                 R33.6                          
+                                                                          R_ED6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  R_ED23       pins MOVED FROM this net (to net name listed on right)
+                                 R33.5                          
+                                                                          R_ED7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC3V3       pins MOVED FROM this net (to net name listed on right)
+                                 R27.2                          
+                                                                            EA4
+                                 R35.2                          
+                                                                            EA8
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd         |
+|                                                    Fri Oct 24 15:39:58 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      44                                        |
+|                                                                              |
+|   Total ECO changes reported:      44                                        |
+|------------------------------------------------------------------------------|

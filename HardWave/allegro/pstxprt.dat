@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 22.1.0 d001Oct-23-2025 at 18:47:36 }
+{ Using PSTWRITER 22.1.0 d001Oct-24-2025 at 15:54:15 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DSP6713_SYSTEM';
@@ -8,612 +8,7 @@ DIRECTIVES
 END_DIRECTIVES;
 
 PART_NAME
- C1 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2628281@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2628281@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page1_ins2628281@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(320,280)',
- SECTION='';
-
-PART_NAME
- C10 'C_CAP0603_220NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2677848@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2677848@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2677848@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(570,130)',
- SECTION='';
-
-PART_NAME
- C100 'C_POL_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22535@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22535@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22535@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1450,260)',
- SECTION='';
-
-PART_NAME
- C101 'C_CAP0603_1600PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14554@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14554@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14554@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(990,280)',
- SECTION='';
-
-PART_NAME
- C102 'C_CAP0603_2200PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14570@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14570@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14570@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1100,280)',
- SECTION='';
-
-PART_NAME
- C103 'C_CAP0603_2000PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10995@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10995@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10995@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(240,360)',
- SECTION='';
-
-PART_NAME
- C104 'C_CAP0603_2200PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS11011@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins11011@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins11011@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(350,360)',
- SECTION='';
-
-PART_NAME
- C105 'C_CAP0603_220PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS12587@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins12587@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins12587@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(490,360)',
- SECTION='';
-
-PART_NAME
- C106 'C_CAP0603_220PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16181@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16181@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16181@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(570,480)',
- SECTION='';
-
-PART_NAME
- C107 'C_CAP0603_220PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16213@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16213@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16213@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1280,500)',
- SECTION='';
-
-PART_NAME
- C108 'C_CAP0603_2000PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16521@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16521@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16521@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(280,610)',
- SECTION='';
-
-PART_NAME
- C109 'C_CAP0603_2200PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16537@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16537@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16537@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(390,610)',
- SECTION='';
-
-PART_NAME
- C11 'C_CAP0603_220NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2678606@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2678606@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2678606@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(620,130)',
- SECTION='';
-
-PART_NAME
- C110 'C_POL_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22571@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22571@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22571@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1450,610)',
- SECTION='';
-
-PART_NAME
- C111 'C_CAP0603_1600PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16659@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16659@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16659@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(990,630)',
- SECTION='';
-
-PART_NAME
- C112 'C_CAP0603_2200PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16675@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16675@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16675@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1100,630)',
- SECTION='';
-
-PART_NAME
- C113 'C_CAP0603_2000PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16853@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16853@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16853@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(240,710)',
- SECTION='';
-
-PART_NAME
- C114 'C_CAP0603_2200PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16869@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16869@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16869@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(350,710)',
- SECTION='';
-
-PART_NAME
- C115 'C_CAP0603_220PF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16885@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16885@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16885@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(490,710)',
- SECTION='';
-
-PART_NAME
- C116 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22880@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22880@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22880@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(340,930)',
- SECTION='';
-
-PART_NAME
- C117 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22896@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22896@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22896@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(490,930)',
- SECTION='';
-
-PART_NAME
- C118 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23217@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23217@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23217@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(650,930)',
- SECTION='';
-
-PART_NAME
- C119 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23233@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23233@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23233@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(800,930)',
- SECTION='';
-
-PART_NAME
- C12 'C_CAP0603_220NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2679358@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2679358@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2679358@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(670,130)',
- SECTION='';
-
-PART_NAME
- C120 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22848@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22848@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22848@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(280,920)',
- SECTION='';
-
-PART_NAME
- C121 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22864@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22864@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins22864@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(430,920)',
- SECTION='';
-
-PART_NAME
- C122 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23185@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23185@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23185@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(590,920)',
- SECTION='';
-
-PART_NAME
- C123 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23201@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23201@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23201@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(740,920)',
- SECTION='';
-
-PART_NAME
- C124 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23546@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23546@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23546@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(880,920)',
- SECTION='';
-
-PART_NAME
- C125 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23578@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23578@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23578@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(940,930)',
- SECTION='';
-
-PART_NAME
- C126 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23562@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23562@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23562@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1030,920)',
- SECTION='';
-
-PART_NAME
- C127 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23594@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23594@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins23594@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(1090,930)',
- SECTION='';
-
-PART_NAME
- C128 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14623@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14623@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins14623@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(220,160)',
- SECTION='';
-
-PART_NAME
- C129 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13376@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13376@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13376@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(680,180)',
- SECTION='';
-
-PART_NAME
- C13 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2680108@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2680108@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2680108@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(520,200)',
- SECTION='';
-
-PART_NAME
- C130 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14687@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14687@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins14687@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(220,190)',
- SECTION='';
-
-PART_NAME
- C131 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13466@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13466@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13466@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(680,210)',
- SECTION='';
-
-PART_NAME
- C132 'C_CAP0603_0.01UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14719@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14719@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins14719@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(220,220)',
- SECTION='';
-
-PART_NAME
- C133 'C_CAP0603_0.01UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13645@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13645@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13645@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(680,240)',
- SECTION='';
-
-PART_NAME
- C134 'C_POL_CAP1206_10UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260974@BASIC.C_POL.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260974@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2260974@basic.\c_pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(940,190)',
- SECTION='';
-
-PART_NAME
- C135 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260902@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260902@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2260902@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(890,200)',
- SECTION='';
-
-PART_NAME
- C136 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259456@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259456@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259456@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(170,210)',
- SECTION='';
-
-PART_NAME
- C137 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259596@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259596@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259596@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(220,210)',
- SECTION='';
-
-PART_NAME
- C138 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260671@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260671@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2260671@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(890,270)',
- SECTION='';
-
-PART_NAME
- C139 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260687@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260687@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2260687@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(940,270)',
- SECTION='';
-
-PART_NAME
- C14 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2681584@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2681584@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2681584@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(570,200)',
- SECTION='';
-
-PART_NAME
- C140 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259736@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259736@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259736@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(170,310)',
- SECTION='';
-
-PART_NAME
- C141 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259814@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259814@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259814@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(220,310)',
- SECTION='';
-
-PART_NAME
- C142 'C_CAP0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2262505@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2262505@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2262505@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(780,310)',
- SECTION='';
-
-PART_NAME
- C143 'C_CAP0805_1UF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2262521@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2262521@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2262521@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(830,310)',
- SECTION='';
-
-PART_NAME
- C15 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2682340@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2682340@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2682340@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(620,200)',
- SECTION='';
-
-PART_NAME
- C16 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2683092@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2683092@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2683092@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(670,200)',
- SECTION='';
-
-PART_NAME
- C17 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2683848@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2683848@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2683848@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(720,200)',
- SECTION='';
-
-PART_NAME
- C18 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2684600@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2684600@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2684600@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(770,200)',
- SECTION='';
-
-PART_NAME
- C19 'C_CAP0603_22NF':;
-
-SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2685354@BASIC.C.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2685354@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2685354@basic.\c.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- XY='(820,200)',
- SECTION='';
-
-PART_NAME
- C2 'C_CAP0603_0.1UF':;
+ C1 'C_CAP0603_0.1UF':;
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2628170@BASIC.C.NORMAL(CHIPS)':
@@ -624,12 +19,786 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ C10 'C_CAP0603_220NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2677848@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2677848@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2677848@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,130)',
+ SECTION='';
+
+PART_NAME
+ C100 'C_POL_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22535@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22535@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22535@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,260)',
+ SECTION='';
+
+PART_NAME
+ C101 'C_CAP0603_1600PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14554@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14554@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14554@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,280)',
+ SECTION='';
+
+PART_NAME
+ C102 'C_CAP0603_2200PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14570@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14570@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14570@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,280)',
+ SECTION='';
+
+PART_NAME
+ C103 'C_CAP0603_2000PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10995@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10995@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10995@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,360)',
+ SECTION='';
+
+PART_NAME
+ C104 'C_CAP0603_2200PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS11011@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins11011@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins11011@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,360)',
+ SECTION='';
+
+PART_NAME
+ C105 'C_CAP0603_220PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS12587@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins12587@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins12587@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,360)',
+ SECTION='';
+
+PART_NAME
+ C106 'C_CAP0603_220PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16181@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16181@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16181@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,480)',
+ SECTION='';
+
+PART_NAME
+ C107 'C_CAP0603_220PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16213@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16213@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16213@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,500)',
+ SECTION='';
+
+PART_NAME
+ C108 'C_CAP0603_2000PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16521@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16521@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16521@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,610)',
+ SECTION='';
+
+PART_NAME
+ C109 'C_CAP0603_2200PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16537@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16537@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16537@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,610)',
+ SECTION='';
+
+PART_NAME
+ C11 'C_CAP0603_220NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2678606@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2678606@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2678606@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,130)',
+ SECTION='';
+
+PART_NAME
+ C110 'C_POL_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22571@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22571@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22571@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,610)',
+ SECTION='';
+
+PART_NAME
+ C111 'C_CAP0603_1600PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16659@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16659@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16659@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,630)',
+ SECTION='';
+
+PART_NAME
+ C112 'C_CAP0603_2200PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16675@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16675@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16675@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,630)',
+ SECTION='';
+
+PART_NAME
+ C113 'C_CAP0603_2000PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16853@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16853@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16853@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,710)',
+ SECTION='';
+
+PART_NAME
+ C114 'C_CAP0603_2200PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16869@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16869@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16869@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,710)',
+ SECTION='';
+
+PART_NAME
+ C115 'C_CAP0603_220PF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16885@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16885@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16885@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,710)',
+ SECTION='';
+
+PART_NAME
+ C116 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22880@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22880@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22880@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,930)',
+ SECTION='';
+
+PART_NAME
+ C117 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22896@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22896@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22896@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,930)',
+ SECTION='';
+
+PART_NAME
+ C118 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23217@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23217@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23217@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,930)',
+ SECTION='';
+
+PART_NAME
+ C119 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23233@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23233@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23233@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,930)',
+ SECTION='';
+
+PART_NAME
+ C12 'C_CAP0603_220NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2679358@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2679358@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2679358@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,130)',
+ SECTION='';
+
+PART_NAME
+ C120 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22848@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22848@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22848@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,920)',
+ SECTION='';
+
+PART_NAME
+ C121 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS22864@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins22864@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins22864@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,920)',
+ SECTION='';
+
+PART_NAME
+ C122 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23185@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23185@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23185@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,920)',
+ SECTION='';
+
+PART_NAME
+ C123 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23201@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23201@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23201@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,920)',
+ SECTION='';
+
+PART_NAME
+ C124 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23546@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23546@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23546@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,920)',
+ SECTION='';
+
+PART_NAME
+ C125 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23578@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23578@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23578@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,930)',
+ SECTION='';
+
+PART_NAME
+ C126 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23562@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23562@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23562@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,920)',
+ SECTION='';
+
+PART_NAME
+ C127 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS23594@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins23594@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins23594@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,930)',
+ SECTION='';
+
+PART_NAME
+ C128 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14623@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14623@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins14623@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,160)',
+ SECTION='';
+
+PART_NAME
+ C129 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13376@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13376@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13376@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,180)',
+ SECTION='';
+
+PART_NAME
+ C13 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2680108@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2680108@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2680108@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,200)',
+ SECTION='';
+
+PART_NAME
+ C130 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14687@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14687@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins14687@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,190)',
+ SECTION='';
+
+PART_NAME
+ C131 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13466@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13466@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13466@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,210)',
+ SECTION='';
+
+PART_NAME
+ C132 'C_CAP0603_0.01UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14719@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14719@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins14719@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,220)',
+ SECTION='';
+
+PART_NAME
+ C133 'C_CAP0603_0.01UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13645@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13645@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13645@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C134 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260902@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260902@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2260902@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,200)',
+ SECTION='';
+
+PART_NAME
+ C135 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260974@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260974@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2260974@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,190)',
+ SECTION='';
+
+PART_NAME
+ C136 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259456@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259456@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259456@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,210)',
+ SECTION='';
+
+PART_NAME
+ C137 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259596@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259596@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259596@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,210)',
+ SECTION='';
+
+PART_NAME
+ C138 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260671@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260671@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2260671@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,270)',
+ SECTION='';
+
+PART_NAME
+ C139 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260687@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260687@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2260687@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,270)',
+ SECTION='';
+
+PART_NAME
+ C14 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2681584@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2681584@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2681584@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,200)',
+ SECTION='';
+
+PART_NAME
+ C140 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259736@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259736@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259736@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,310)',
+ SECTION='';
+
+PART_NAME
+ C141 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259814@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259814@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259814@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,310)',
+ SECTION='';
+
+PART_NAME
+ C142 'C_CAP0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2262505@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2262505@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2262505@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,310)',
+ SECTION='';
+
+PART_NAME
+ C143 'C_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2262521@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2262521@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2262521@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,310)',
+ SECTION='';
+
+PART_NAME
+ C144 'C_POL_CAPMP3P7X2P8_2P1N_KEM_20UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS14531@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14531@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins14531@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,200)',
+ SECTION='';
+
+PART_NAME
+ C145 'C_CAP0805_1UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS14556@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14556@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins14556@basic.\c.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,210)',
+ SECTION='';
+
+PART_NAME
+ C146 'C_POL_CAPMP3P7X2P8_2P1N_KEM_20UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS14725@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14725@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins14725@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,200)',
+ SECTION='';
+
+PART_NAME
+ C147 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2263372@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263372@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2263372@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,430)',
+ SECTION='';
+
+PART_NAME
+ C148 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2263388@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263388@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2263388@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,430)',
+ SECTION='';
+
+PART_NAME
+ C149 'C_POL_CAPMP3P7X2P8_2P1N_KEM_20UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2261686@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261686@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2261686@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,500)',
+ SECTION='';
+
+PART_NAME
+ C15 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2682340@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2682340@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2682340@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,200)',
+ SECTION='';
+
+PART_NAME
+ C150 'C_POL_CAPMP3P7X2P8_2P1N_KEM_20UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2261702@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261702@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2261702@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,490)',
+ SECTION='';
+
+PART_NAME
+ C151 'C_CAP0603_0.1UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2261718@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261718@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2261718@basic.\c.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,510)',
+ SECTION='';
+
+PART_NAME
+ C152 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2570717@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570717@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2570717@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,560)',
+ SECTION='';
+
+PART_NAME
+ C153 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2570851@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570851@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2570851@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,560)',
+ SECTION='';
+
+PART_NAME
+ C154 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2264267@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264267@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2264267@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,560)',
+ SECTION='';
+
+PART_NAME
+ C155 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2264283@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264283@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2264283@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,560)',
+ SECTION='';
+
+PART_NAME
+ C156 'C_POL_CAPMP3P7X2P8_2P1N_KEM_10UF':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2262523@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262523@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2262523@basic.\c_pol.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,610)',
+ SECTION='';
+
+PART_NAME
+ C16 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2683092@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2683092@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2683092@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,200)',
+ SECTION='';
+
+PART_NAME
+ C17 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2683848@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2683848@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2683848@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,200)',
+ SECTION='';
+
+PART_NAME
+ C18 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2684600@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2684600@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2684600@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,200)',
+ SECTION='';
+
+PART_NAME
+ C19 'C_CAP0603_22NF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2685354@BASIC.C.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2685354@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2685354@basic.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,200)',
+ SECTION='';
+
+PART_NAME
+ C2 'C_POL_CAP1206_10UF':;
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2628281@BASIC.C_POL.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2628281@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page1_ins2628281@basic.\c_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,280)',
+ SECTION='';
+
+PART_NAME
  C20 'C_CAP0603_22NF':;
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2687246@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2687246@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2687246@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2687246@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(870,200)',
  SECTION='';
@@ -640,7 +809,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2687988@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2687988@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2687988@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2687988@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,280)',
  SECTION='';
@@ -651,7 +820,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2689458@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2689458@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2689458@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2689458@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,280)',
  SECTION='';
@@ -662,7 +831,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2690192@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2690192@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2690192@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2690192@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,280)',
  SECTION='';
@@ -673,7 +842,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2690924@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2690924@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2690924@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2690924@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,280)',
  SECTION='';
@@ -684,7 +853,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2691662@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2691662@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2691662@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2691662@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(720,280)',
  SECTION='';
@@ -695,7 +864,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2692398@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2692398@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2692398@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2692398@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,280)',
  SECTION='';
@@ -706,7 +875,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2693134@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2693134@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2693134@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2693134@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(820,280)',
  SECTION='';
@@ -717,7 +886,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2693870@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2693870@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2693870@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2693870@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(870,280)',
  SECTION='';
@@ -728,7 +897,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2694600@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2694600@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2694600@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2694600@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(920,280)',
  SECTION='';
@@ -750,7 +919,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2695332@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2695332@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2695332@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2695332@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(970,280)',
  SECTION='';
@@ -761,7 +930,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2696070@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2696070@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2696070@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2696070@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1020,280)',
  SECTION='';
@@ -772,7 +941,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2696806@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2696806@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2696806@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2696806@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1070,280)',
  SECTION='';
@@ -783,7 +952,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2697540@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2697540@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2697540@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2697540@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1120,280)',
  SECTION='';
@@ -794,7 +963,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2698270@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2698270@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2698270@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2698270@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1170,280)',
  SECTION='';
@@ -805,7 +974,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2698996@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2698996@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2698996@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2698996@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1220,280)',
  SECTION='';
@@ -816,7 +985,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2699730@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2699730@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2699730@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2699730@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1270,280)',
  SECTION='';
@@ -827,7 +996,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2675613@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2675613@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2675613@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2675613@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,410)',
  SECTION='';
@@ -838,7 +1007,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2675629@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2675629@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2675629@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2675629@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,410)',
  SECTION='';
@@ -849,7 +1018,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2675645@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2675645@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2675645@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2675645@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,410)',
  SECTION='';
@@ -871,7 +1040,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2675661@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2675661@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2675661@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2675661@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,410)',
  SECTION='';
@@ -882,7 +1051,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2700500@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2700500@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2700500@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2700500@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,480)',
  SECTION='';
@@ -893,7 +1062,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2703989@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2703989@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2703989@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2703989@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,480)',
  SECTION='';
@@ -904,7 +1073,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2704692@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2704692@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2704692@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2704692@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,480)',
  SECTION='';
@@ -915,7 +1084,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2705399@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2705399@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2705399@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2705399@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,480)',
  SECTION='';
@@ -926,7 +1095,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2706112@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2706112@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2706112@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2706112@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,550)',
  SECTION='';
@@ -937,7 +1106,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2707496@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2707496@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2707496@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2707496@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,550)',
  SECTION='';
@@ -948,7 +1117,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2708195@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2708195@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2708195@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2708195@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,550)',
  SECTION='';
@@ -959,7 +1128,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2708898@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2708898@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2708898@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2708898@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,550)',
  SECTION='';
@@ -970,7 +1139,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2709599@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2709599@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2709599@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2709599@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(720,550)',
  SECTION='';
@@ -981,7 +1150,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2672669@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2672669@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2672669@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2672669@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,60)',
  SECTION='';
@@ -992,7 +1161,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2709615@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2709615@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2709615@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2709615@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,550)',
  SECTION='';
@@ -1003,7 +1172,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2711031@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2711031@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2711031@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2711031@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,630)',
  SECTION='';
@@ -1014,7 +1183,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2712409@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2712409@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2712409@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2712409@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,630)',
  SECTION='';
@@ -1025,7 +1194,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2713106@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2713106@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2713106@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2713106@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,630)',
  SECTION='';
@@ -1036,7 +1205,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2713807@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2713807@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2713807@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2713807@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,630)',
  SECTION='';
@@ -1047,7 +1216,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714510@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714510@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714510@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714510@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(720,630)',
  SECTION='';
@@ -1058,7 +1227,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714526@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714526@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714526@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714526@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,630)',
  SECTION='';
@@ -1069,7 +1238,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714542@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714542@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714542@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714542@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(820,630)',
  SECTION='';
@@ -1080,7 +1249,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714558@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714558@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714558@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714558@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(870,630)',
  SECTION='';
@@ -1091,7 +1260,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714574@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714574@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714574@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714574@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(920,630)',
  SECTION='';
@@ -1102,7 +1271,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2673407@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2673407@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2673407@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2673407@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,60)',
  SECTION='';
@@ -1113,7 +1282,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714590@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714590@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714590@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714590@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(970,630)',
  SECTION='';
@@ -1124,7 +1293,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714606@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714606@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714606@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714606@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1020,630)',
  SECTION='';
@@ -1135,7 +1304,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2714622@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2714622@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2714622@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2714622@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1070,630)',
  SECTION='';
@@ -1146,7 +1315,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2604929@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2604929@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2604929@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2604929@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1230,300)',
  SECTION='';
@@ -1157,7 +1326,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2601257@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2601257@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2601257@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2601257@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(180,630)',
  SECTION='';
@@ -1168,7 +1337,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2601825@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2601825@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2601825@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2601825@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(220,630)',
  SECTION='';
@@ -1179,7 +1348,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2601980@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2601980@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2601980@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2601980@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(260,630)',
  SECTION='';
@@ -1190,7 +1359,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2602133@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2602133@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2602133@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2602133@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(300,630)',
  SECTION='';
@@ -1201,7 +1370,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2602288@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2602288@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2602288@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2602288@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(340,630)',
  SECTION='';
@@ -1212,7 +1381,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2602439@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2602439@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2602439@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2602439@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(380,630)',
  SECTION='';
@@ -1223,7 +1392,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2674143@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2674143@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2674143@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2674143@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,60)',
  SECTION='';
@@ -1234,7 +1403,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2602588@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2602588@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2602588@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2602588@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(420,630)',
  SECTION='';
@@ -1245,95 +1414,111 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2602743@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2602743@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2602743@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2602743@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(460,630)',
  SECTION='';
 
 PART_NAME
- C72 'C_CAP0603_470PF':;
+ C72 'C_CAP0603_470PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1368@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1368@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1368@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1368@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(530,140)',
  SECTION='';
 
 PART_NAME
- C73 'C_POL_CAP0805_1UF':;
+ C73 'C_POL_CAP0805_1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS583@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins583@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins583@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins583@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(410,260)',
  SECTION='';
 
 PART_NAME
- C74 'C_CAP0603_2700PF':;
+ C74 'C_CAP0603_2700PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2132@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2132@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2132@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2132@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(900,330)',
  SECTION='';
 
 PART_NAME
- C75 'C_CAP0603_0.1UF':;
+ C75 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS9387@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9387@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins9387@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins9387@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1280,330)',
  SECTION='';
 
 PART_NAME
- C76 'C_CAP0603_0.1UF':;
+ C76 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS9403@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9403@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins9403@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins9403@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1430,330)',
  SECTION='';
 
 PART_NAME
- C77 'C_POL_CAP1206_10UF':;
+ C77 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS9355@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9355@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins9355@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins9355@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1220,320)',
  SECTION='';
 
 PART_NAME
- C78 'C_POL_CAP1206_10UF':;
+ C78 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS9371@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9371@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins9371@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins9371@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1370,320)',
  SECTION='';
 
 PART_NAME
- C79 'C_CAP0603_470PF':;
+ C79 'C_CAP0603_470PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1922@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1922@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1922@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1922@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(730,350)',
  SECTION='';
@@ -1344,117 +1529,137 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2674879@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2674879@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2674879@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2674879@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,60)',
  SECTION='';
 
 PART_NAME
- C80 'C_POL_CAP1206_10UF':;
+ C80 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS814@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins814@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins814@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins814@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(140,420)',
  SECTION='';
 
 PART_NAME
- C81 'C_CAP0603_0.1UF':;
+ C81 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS839@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins839@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins839@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins839@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(200,430)',
  SECTION='';
 
 PART_NAME
- C82 'C_CAP0603_0.01UF':;
+ C82 'C_CAP0603_0.01UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1691@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1691@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1691@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1691@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(460,480)',
  SECTION='';
 
 PART_NAME
- C83 'C_POL_CAPMP3P7X2P8_2P1N_KEM_100UF':;
+ C83 'C_POL_CAPMP3P7X2P8_2P1N_KEM_100UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1776@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1776@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1776@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1776@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,480)',
  SECTION='';
 
 PART_NAME
- C84 'C_CAP0603_470PF':;
+ C84 'C_CAP0603_470PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2658@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2658@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2658@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2658@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,650)',
  SECTION='';
 
 PART_NAME
- C85 'C_POL_CAP0805_1UF':;
+ C85 'C_POL_CAP0805_1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2746@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2746@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2746@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2746@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(400,770)',
  SECTION='';
 
 PART_NAME
- C86 'C_CAP0603_2700PF':;
+ C86 'C_CAP0603_2700PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2908@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2908@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2908@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2908@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(890,840)',
  SECTION='';
 
 PART_NAME
- C87 'C_CAP0603_0.1UF':;
+ C87 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS4254@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4254@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins4254@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins4254@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1310,850)',
  SECTION='';
 
 PART_NAME
- C88 'C_POL_CAP1206_10UF':;
+ C88 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS4222@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4222@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins4222@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins4222@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1250,840)',
  SECTION='';
 
 PART_NAME
- C89 'C_POL_CAP1206_10UF':;
+ C89 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS8788@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins8788@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins8788@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins8788@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1400,840)',
  SECTION='';
@@ -1465,73 +1670,85 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2676376@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2676376@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2676376@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2676376@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,130)',
  SECTION='';
 
 PART_NAME
- C90 'C_CAP0603_470PF':;
+ C90 'C_CAP0603_470PF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2936@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2936@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2936@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2936@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(720,860)',
  SECTION='';
 
 PART_NAME
- C91 'C_CAP0603_0.1UF':;
+ C91 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS4270@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4270@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins4270@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins4270@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1460,850)',
  SECTION='';
 
 PART_NAME
- C92 'C_POL_CAP1206_10UF':;
+ C92 'C_POL_CAP1206_10UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3020@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3020@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3020@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3020@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(130,930)',
  SECTION='';
 
 PART_NAME
- C93 'C_CAP0603_0.1UF':;
+ C93 'C_CAP0603_0.1UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3058@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3058@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3058@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3058@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(190,940)',
  SECTION='';
 
 PART_NAME
- C94 'C_CAP0603_0.01UF':;
+ C94 'C_CAP0603_0.01UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3188@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3188@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3188@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3188@basic.\c.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(450,990)',
  SECTION='';
 
 PART_NAME
- C95 'C_POL_CAPMP3P7X2P8_2P1N_KEM_100UF':;
+ C95 'C_POL_CAPMP3P7X2P8_2P1N_KEM_100UF':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3204@BASIC.C_POL.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3204@basic.\c_pol.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3204@basic.\c_pol.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3204@basic.\c_pol.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(510,990)',
  SECTION='';
@@ -1542,7 +1759,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10398@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10398@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10398@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10398@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(570,130)',
  SECTION='';
@@ -1553,7 +1770,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14982@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14982@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14982@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14982@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1280,150)',
  SECTION='';
@@ -1564,7 +1781,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS9303@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins9303@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins9303@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins9303@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(280,260)',
  SECTION='';
@@ -1575,7 +1792,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS9952@BASIC.C.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins9952@basic.\c.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins9952@basic.\c.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins9952@basic.\c.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(390,260)',
  SECTION='';
@@ -1614,6 +1831,19 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ CN4 'CON5 PWR DIN-422_CON_MPC4001B_DIN422MM_DIN-422':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2576077@CONNECTOR.CON5 PWR DIN-422.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\con5 pwr din-422.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2576077@connector.\con5 pwr din-422.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,380)',
+ SECTION='';
+
+PART_NAME
  FL1 'EMI FILTER 25MHZ SMD_FIL_TDK_MEM2012S_4_2P0X1P25_MEM2012S25R0T001, 25MHZ, 30DB':;
 
 SECTION_NUMBER 1
@@ -1636,12 +1866,14 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J2 'AUDIO_RJ_0_AUDIO_SHOUHAN_PJ313D_AUDIO_RJ':;
+ J2 'AUDIO_RJ_0_AUDIO_SHOUHAN_PJ313D_AUDIO_RJ':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS4420@DSP6713_SYSTEM.AUDIO_RJ_0.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4420@dsp6713_system.\audio_rj_0.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins4420@dsp6713_system.\audio_rj_0.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins4420@dsp6713_system.\audio_rj_0.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(1300,560)',
  SECTION='';
@@ -1652,7 +1884,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS8034@DSP6713_SYSTEM.AUDIO_RJ_0.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins8034@dsp6713_system.\audio_rj_0.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins8034@dsp6713_system.\audio_rj_0.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins8034@dsp6713_system.\audio_rj_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1280,890)',
  SECTION='';
@@ -1674,7 +1906,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS14639@BASIC.FB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins14639@basic.\fb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins14639@basic.\fb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins14639@basic.\fb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(300,160)',
  SECTION='';
@@ -1685,7 +1917,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13264@BASIC.FB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13264@basic.\fb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13264@basic.\fb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13264@basic.\fb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(760,180)',
  SECTION='';
@@ -1696,7 +1928,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2257918@BASIC.FB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2257918@basic.\fb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2257918@basic.\fb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2257918@basic.\fb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1020,230)',
  SECTION='';
@@ -1762,7 +1994,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259901@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259901@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259901@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259901@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(450,130)',
  SECTION='';
@@ -1773,7 +2005,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2260198@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260198@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2260198@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2260198@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(440,200)',
  SECTION='';
@@ -1784,7 +2016,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259178@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259178@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259178@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259178@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(350,310)',
  SECTION='';
@@ -1795,7 +2027,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259264@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259264@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259264@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259264@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(380,310)',
  SECTION='';
@@ -1806,7 +2038,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259331@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259331@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259331@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259331@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(410,310)',
  SECTION='';
@@ -1817,9 +2049,35 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2259396@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2259396@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2259396@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2259396@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(440,310)',
+ SECTION='';
+
+PART_NAME
+ R106 'R_RES0603_1K':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2262459@BASIC.R.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262459@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2262459@basic.\r.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,500)',
+ SECTION='';
+
+PART_NAME
+ R107 'R_RES0603_0':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2262475@BASIC.R.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262475@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2262475@basic.\r.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,580)',
  SECTION='';
 
 PART_NAME
@@ -1949,7 +2207,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2649282@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2649282@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2649282@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2649282@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(80,710)',
  SECTION='';
@@ -1960,7 +2218,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2596822@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2596822@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2596822@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2596822@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(490,270)',
  SECTION='';
@@ -1971,53 +2229,53 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2608564@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2608564@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2608564@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2608564@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,540)',
  SECTION='';
 
 PART_NAME
- R24 'RS4_RESCA0603X4_RS4':;
+ R24 'R_RES0805_10K':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2282254@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2282254@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282254@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2609181@BASIC.R.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2609181@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609181@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(670,560)',
+ XY='(1390,550)',
  SECTION='';
 
 PART_NAME
  R25 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2282542@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2282542@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282542@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2282254@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2282254@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282254@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(850,560)',
+ XY='(670,560)',
  SECTION='';
 
 PART_NAME
  R26 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2594454@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2594454@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594454@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2282542@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2282542@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282542@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(1050,560)',
+ XY='(850,560)',
  SECTION='';
 
 PART_NAME
- R27 'R_RES0805_10K':;
+ R27 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2609181@BASIC.R.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2609181@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609181@basic.\r.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2594454@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2594454@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594454@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(1390,550)',
+ XY='(1050,560)',
  SECTION='';
 
 PART_NAME
@@ -2026,7 +2284,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2609316@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2609316@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609316@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609316@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,560)',
  SECTION='';
@@ -2037,7 +2295,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2609450@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2609450@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609450@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609450@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,570)',
  SECTION='';
@@ -2059,7 +2317,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2609582@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2609582@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609582@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609582@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,580)',
  SECTION='';
@@ -2070,53 +2328,53 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2609713@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2609713@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609713@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609713@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,590)',
  SECTION='';
 
 PART_NAME
- R32 'RS4_RESCA0603X4_RS4':;
+ R32 'R_RES0805_10K':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2282326@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2282326@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282326@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2609846@BASIC.R.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2609846@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609846@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(670,610)',
+ XY='(1390,600)',
  SECTION='';
 
 PART_NAME
  R33 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2282614@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2282614@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282614@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2282326@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2282326@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282326@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(850,610)',
+ XY='(670,610)',
  SECTION='';
 
 PART_NAME
  R34 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2594542@BASIC.RS4.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2594542@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594542@basic.\rs4.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2282614@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2282614@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282614@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(1050,610)',
+ XY='(850,610)',
  SECTION='';
 
 PART_NAME
- R35 'R_RES0805_10K':;
+ R35 'RS4_RESCA0603X4_RS4':;
 
 SECTION_NUMBER 1
- '@DSP6713_SYSTEM.TOP(SCH_1):INS2609846@BASIC.R.NORMAL(CHIPS)':
- C_PATH='@dsp6713_system.top(sch_1):ins2609846@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609846@basic.\r.normal\(chips)',
+ '@DSP6713_SYSTEM.TOP(SCH_1):INS2594542@BASIC.RS4.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):ins2594542@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594542@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
- XY='(1390,600)',
+ XY='(1050,610)',
  SECTION='';
 
 PART_NAME
@@ -2125,7 +2383,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2609979@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2609979@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2609979@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2609979@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,610)',
  SECTION='';
@@ -2136,7 +2394,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2610111@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2610111@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2610111@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2610111@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,620)',
  SECTION='';
@@ -2147,7 +2405,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2610243@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2610243@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2610243@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2610243@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,630)',
  SECTION='';
@@ -2158,7 +2416,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2610375@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2610375@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2610375@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2610375@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,640)',
  SECTION='';
@@ -2180,7 +2438,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2282398@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2282398@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282398@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282398@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,660)',
  SECTION='';
@@ -2191,7 +2449,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2282686@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2282686@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282686@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282686@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(850,660)',
  SECTION='';
@@ -2202,7 +2460,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2594586@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2594586@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594586@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594586@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1050,660)',
  SECTION='';
@@ -2213,7 +2471,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2282470@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2282470@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282470@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282470@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,710)',
  SECTION='';
@@ -2224,7 +2482,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2282758@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2282758@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2282758@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2282758@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(850,710)',
  SECTION='';
@@ -2235,7 +2493,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2594630@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2594630@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594630@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594630@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1050,710)',
  SECTION='';
@@ -2246,7 +2504,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2594725@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2594725@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594725@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594725@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1050,760)',
  SECTION='';
@@ -2257,29 +2515,33 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2594764@BASIC.RS4.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2594764@basic.\rs4.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2594764@basic.\rs4.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2594764@basic.\rs4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1050,810)',
  SECTION='';
 
 PART_NAME
- R48 'R_RES0603_634':;
+ R48 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1418@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1418@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1418@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1418@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,80)',
  SECTION='';
 
 PART_NAME
- R49 'R_RES0603_91':;
+ R49 'R_RES0603_91':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1502@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1502@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1502@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1502@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(630,250)',
  SECTION='';
@@ -2296,111 +2558,131 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R50 'R_RES0603_100K':;
+ R50 'R_RES0603_100K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS632@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins632@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins632@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins632@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(330,290)',
  SECTION='';
 
 PART_NAME
- R51 'R_RES0603_100K':;
+ R51 'R_RES0603_100K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS558@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins558@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins558@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins558@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(460,300)',
  SECTION='';
 
 PART_NAME
- R52 'R_RES0603_634':;
+ R52 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1547@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1547@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1547@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1547@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(600,300)',
  SECTION='';
 
 PART_NAME
- R53 'R_RES0603_634':;
+ R53 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS1584@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1584@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins1584@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins1584@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(730,300)',
  SECTION='';
 
 PART_NAME
- R54 'R_RES0603_3.3K':;
+ R54 'R_RES0603_3.3K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS732@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins732@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins732@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins732@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(260,400)',
  SECTION='';
 
 PART_NAME
- R55 'R_RES0603_91':;
+ R55 'R_RES0603_91':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2006@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2006@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2006@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2006@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(820,430)',
  SECTION='';
 
 PART_NAME
- R56 'R_RES0603_3.3K':;
+ R56 'R_RES0603_3.3K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS757@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins757@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins757@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins757@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(260,480)',
  SECTION='';
 
 PART_NAME
- R57 'R_RES0603_634':;
+ R57 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2626@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2626@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2626@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2626@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(510,590)',
  SECTION='';
 
 PART_NAME
- R58 'R_RES0603_91':;
+ R58 'R_RES0603_91':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2724@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2724@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2724@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2724@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(620,760)',
  SECTION='';
 
 PART_NAME
- R59 'R_RES0603_100K':;
+ R59 'R_RES0603_100K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2816@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2816@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2816@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2816@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(320,800)',
  SECTION='';
@@ -2417,67 +2699,79 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R60 'R_RES0603_100K':;
+ R60 'R_RES0603_100K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2832@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2832@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2832@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2832@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(450,810)',
  SECTION='';
 
 PART_NAME
- R61 'R_RES0603_634':;
+ R61 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2848@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2848@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2848@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2848@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(590,810)',
  SECTION='';
 
 PART_NAME
- R62 'R_RES0603_634':;
+ R62 'R_RES0603_634':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2864@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2864@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2864@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2864@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(720,810)',
  SECTION='';
 
 PART_NAME
- R63 'R_RES0603_3.3K':;
+ R63 'R_RES0603_3.3K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3004@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3004@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3004@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3004@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(250,910)',
  SECTION='';
 
 PART_NAME
- R64 'R_RES0603_91':;
+ R64 'R_RES0603_91':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3082@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3082@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3082@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3082@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(810,940)',
  SECTION='';
 
 PART_NAME
- R65 'R_RES0603_3.3K':;
+ R65 'R_RES0603_3.3K':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3172@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3172@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3172@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3172@basic.\r.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(250,990)',
  SECTION='';
@@ -2488,7 +2782,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10589@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10589@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10589@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10589@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(490,90)',
  SECTION='';
@@ -2499,7 +2793,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14950@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14950@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14950@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14950@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1200,110)',
  SECTION='';
@@ -2510,7 +2804,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS13329@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins13329@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins13329@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins13329@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(800,160)',
  SECTION='';
@@ -2521,7 +2815,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS9261@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins9261@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins9261@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins9261@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(220,230)',
  SECTION='';
@@ -2543,7 +2837,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS9425@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins9425@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins9425@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins9425@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(330,230)',
  SECTION='';
@@ -2554,7 +2848,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10157@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10157@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10157@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10157@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(440,230)',
  SECTION='';
@@ -2565,7 +2859,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS7358@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins7358@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins7358@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins7358@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,240)',
  SECTION='';
@@ -2576,7 +2870,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14478@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14478@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14478@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14478@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(930,250)',
  SECTION='';
@@ -2587,7 +2881,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14494@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14494@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14494@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14494@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1040,250)',
  SECTION='';
@@ -2598,7 +2892,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS14510@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins14510@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins14510@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins14510@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1150,250)',
  SECTION='';
@@ -2609,7 +2903,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS15054@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins15054@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins15054@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins15054@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,260)',
  SECTION='';
@@ -2620,7 +2914,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10915@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10915@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10915@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10915@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(180,330)',
  SECTION='';
@@ -2631,7 +2925,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10931@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10931@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10931@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10931@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(290,330)',
  SECTION='';
@@ -2642,7 +2936,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS10947@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins10947@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins10947@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins10947@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(450,330)',
  SECTION='';
@@ -2664,7 +2958,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS11751@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins11751@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins11751@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins11751@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(410,350)',
  SECTION='';
@@ -2675,7 +2969,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16117@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16117@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16117@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16117@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(490,440)',
  SECTION='';
@@ -2686,7 +2980,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16149@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16149@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16149@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16149@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1200,460)',
  SECTION='';
@@ -2697,7 +2991,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16229@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16229@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16229@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16229@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(800,510)',
  SECTION='';
@@ -2708,7 +3002,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16291@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16291@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16291@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16291@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(220,580)',
  SECTION='';
@@ -2719,7 +3013,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16307@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16307@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16307@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16307@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(330,580)',
  SECTION='';
@@ -2730,7 +3024,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16323@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16323@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16323@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16323@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(440,580)',
  SECTION='';
@@ -2741,7 +3035,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16397@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16397@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16397@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16397@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(670,590)',
  SECTION='';
@@ -2752,7 +3046,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16451@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16451@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16451@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16451@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(930,600)',
  SECTION='';
@@ -2763,7 +3057,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16467@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16467@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16467@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16467@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1040,600)',
  SECTION='';
@@ -2785,7 +3079,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16483@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16483@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16483@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16483@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1150,600)',
  SECTION='';
@@ -2796,7 +3090,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16593@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16593@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16593@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16593@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1390,610)',
  SECTION='';
@@ -2807,7 +3101,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16745@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16745@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16745@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16745@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(180,680)',
  SECTION='';
@@ -2818,7 +3112,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16761@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16761@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16761@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16761@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(290,680)',
  SECTION='';
@@ -2829,7 +3123,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16777@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16777@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16777@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16777@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(450,680)',
  SECTION='';
@@ -2840,7 +3134,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS16837@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins16837@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins16837@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins16837@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(410,700)',
  SECTION='';
@@ -2851,7 +3145,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13044@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13044@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13044@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13044@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(390,280)',
  SECTION='';
@@ -2862,7 +3156,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13167@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13167@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13167@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13167@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(350,300)',
  SECTION='';
@@ -2873,7 +3167,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13939@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13939@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13939@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13939@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(760,300)',
  SECTION='';
@@ -2884,7 +3178,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS13955@BASIC.R.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins13955@basic.\r.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins13955@basic.\r.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins13955@basic.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(760,310)',
  SECTION='';
@@ -2901,12 +3195,129 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ TP1 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572195@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572195@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572195@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,90)',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572238@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572238@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572238@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,90)',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572296@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572296@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572296@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,130)',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572318@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572318@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572318@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,130)',
+ SECTION='';
+
+PART_NAME
+ TP5 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572374@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572374@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572374@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,170)',
+ SECTION='';
+
+PART_NAME
+ TP6 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572394@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572394@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572394@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,170)',
+ SECTION='';
+
+PART_NAME
+ TP7 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572450@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572450@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572450@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,220)',
+ SECTION='';
+
+PART_NAME
+ TP8 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572468@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572468@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572468@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,220)',
+ SECTION='';
+
+PART_NAME
+ TP9 'TP_SS_TPS200D90_TP_SS':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2572524@TEST.TP_SS.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572524@test.\tp_ss.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2572524@test.\tp_ss.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,270)',
+ SECTION='';
+
+PART_NAME
  U1 'TMS320C6713GDP_BGA272_TMS320C6713BGDP_TMS320C6713BGDP':;
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2266176@MAINCONTROL.TMS320C6713GDPA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2266176@maincontrol.\tms320c6713gdpa.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2266176@maincontrol.\tms320c6713gdpa.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2266176@maincontrol.\tms320c6713gdpa.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,50)',
  SECTION='A';
@@ -2930,7 +3341,7 @@ SECTION_NUMBER 3
 SECTION_NUMBER 4
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2267888@MAINCONTROL.TMS320C6713GDPD.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2267888@maincontrol.\tms320c6713gdpd.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page3_ins2267888@maincontrol.\tms320c6713gdpd.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page4_ins2267888@maincontrol.\tms320c6713gdpd.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(770,50)',
  SECTION='D';
@@ -2941,9 +3352,35 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CODEC@DSP6713_SYSTEM.CODEC(SCH_1):INS2277442@CODEC.CS4272.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2277442@codec.\cs4272.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page9_ins2277442@codec.\cs4272.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_codec@dsp6713_system.codec(sch_1):page10_ins2277442@codec.\cs4272.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(610,150)',
+ SECTION='';
+
+PART_NAME
+ U11 'AMS1117_SOT223_3P_4_AMS1117_3V3':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS34@POWER.AMS1117.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins34@power.\ams1117.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins34@power.\ams1117.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,150)',
+ SECTION='';
+
+PART_NAME
+ U12 'AMS1117_SOT223_3P_4_AMS1117_ADJ':
+ PAGE='POWER';
+
+SECTION_NUMBER 1
+ '@DSP6713_SYSTEM.TOP(SCH_1):PWR@DSP6713_SYSTEM.POWER(SCH_1):INS2261618@POWER.AMS1117.NORMAL(CHIPS)':
+ C_PATH='@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261618@power.\ams1117.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page3_pwr@dsp6713_system.power(sch_1):page11_ins2261618@power.\ams1117.normal\(chips)',
+ PAGE='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,450)',
  SECTION='';
 
 PART_NAME
@@ -2952,7 +3389,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2790247@MEMORY.MT48LC2M32B2B5-6.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2790247@memory.\mt48lc2m32b2b5-6.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2790247@memory.\mt48lc2m32b2b5-6.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2790247@memory.\mt48lc2m32b2b5-6.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(270,50)',
  SECTION='';
@@ -2963,18 +3400,20 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):INS2793970@MEMORY.SST39VF800A.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ins2793970@memory.\sst39vf800a.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page4_ins2793970@memory.\sst39vf800a.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page5_ins2793970@memory.\sst39vf800a.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1320,50)',
  SECTION='';
 
 PART_NAME
- U4 'NE5532ADR_SOIC8_NE5532ADR_NE5532':;
+ U4 'NE5532ADR_SOIC8_NE5532ADR_NE5532':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS369@OPA.NE5532ADRA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins369@opa.\ne5532adra.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins369@opa.\ne5532adra.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins369@opa.\ne5532adra.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,240)',
  SECTION='A';
@@ -2982,18 +3421,21 @@ SECTION_NUMBER 1
 SECTION_NUMBER 2
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS410@OPA.NE5532ADRB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins410@opa.\ne5532adrb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins410@opa.\ne5532adrb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins410@opa.\ne5532adrb.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(520,240)',
  SECTION='B';
 
 PART_NAME
- U5 'NE5532ADR_SOIC8_NE5532ADR_NE5532':;
+ U5 'NE5532ADR_SOIC8_NE5532ADR_NE5532':
+ PAGE='ANALOG_IN';
 
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS2698@OPA.NE5532ADRA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2698@opa.\ne5532adra.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins2698@opa.\ne5532adra.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins2698@opa.\ne5532adra.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(510,750)',
  SECTION='A';
@@ -3001,7 +3443,8 @@ SECTION_NUMBER 1
 SECTION_NUMBER 2
  '@DSP6713_SYSTEM.TOP(SCH_1):AD_IN1@DSP6713_SYSTEM.ANALOG_INPUT(SCH_1):INS3036@OPA.NE5532ADRB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3036@opa.\ne5532adrb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page6_ins3036@opa.\ne5532adrb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_ad_in1@dsp6713_system.analog_input(sch_1):page7_ins3036@opa.\ne5532adrb.normal\(chips)',
+ PAGE='ANALOG_IN',
  PRIM_FILE='.\pstchip.dat',
  XY='(510,750)',
  SECTION='B';
@@ -3012,7 +3455,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS7332@OPA.NE5532ADRA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins7332@opa.\ne5532adra.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins7332@opa.\ne5532adra.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins7332@opa.\ne5532adra.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(560,230)',
  SECTION='A';
@@ -3020,7 +3463,7 @@ SECTION_NUMBER 1
 SECTION_NUMBER 2
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS7822@OPA.NE5532ADRB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins7822@opa.\ne5532adrb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins7822@opa.\ne5532adrb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins7822@opa.\ne5532adrb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(560,230)',
  SECTION='B';
@@ -3031,7 +3474,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS17346@OPA.NE5532ADRA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins17346@opa.\ne5532adra.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins17346@opa.\ne5532adra.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins17346@opa.\ne5532adra.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1250,250)',
  SECTION='A';
@@ -3039,7 +3482,7 @@ SECTION_NUMBER 1
 SECTION_NUMBER 2
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS17546@OPA.NE5532ADRB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins17546@opa.\ne5532adrb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins17546@opa.\ne5532adrb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins17546@opa.\ne5532adrb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(1250,250)',
  SECTION='B';
@@ -3050,7 +3493,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS17592@OPA.NE5532ADRA.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins17592@opa.\ne5532adra.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins17592@opa.\ne5532adra.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins17592@opa.\ne5532adra.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(560,580)',
  SECTION='A';
@@ -3058,7 +3501,7 @@ SECTION_NUMBER 1
 SECTION_NUMBER 2
  '@DSP6713_SYSTEM.TOP(SCH_1):DA_OUT1@DSP6713_SYSTEM.ANALOG_OUTPUT(SCH_1):INS17438@OPA.NE5532ADRB.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):da_out1@dsp6713_system.analog_output(sch_1):ins17438@opa.\ne5532adrb.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page7_ins17438@opa.\ne5532adrb.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page2_da_out1@dsp6713_system.analog_output(sch_1):page8_ins17438@opa.\ne5532adrb.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(560,580)',
  SECTION='B';
@@ -3069,7 +3512,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS19239@CRYSTAL.CY2303.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins19239@crystal.\cy2303.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins19239@crystal.\cy2303.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins19239@crystal.\cy2303.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(480,280)',
  SECTION='';
@@ -3080,7 +3523,7 @@ PART_NAME
 SECTION_NUMBER 1
  '@DSP6713_SYSTEM.TOP(SCH_1):CLK_SOURCE@DSP6713_SYSTEM.CLOCK(SCH_1):INS19881@CRYSTAL.OSC_DIP14.NORMAL(CHIPS)':
  C_PATH='@dsp6713_system.top(sch_1):clk_source@dsp6713_system.clock(sch_1):ins19881@crystal.\osc_dip14.normal\(chips)',
- P_PATH='@dsp6713_system.top(sch_1):page5_clk_source@dsp6713_system.clock(sch_1):page8_ins19881@crystal.\osc_dip14.normal\(chips)',
+ P_PATH='@dsp6713_system.top(sch_1):page6_clk_source@dsp6713_system.clock(sch_1):page9_ins19881@crystal.\osc_dip14.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  XY='(100,270)',
  SECTION='';

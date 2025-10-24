@@ -1,6 +1,6 @@
 (ExpressProject "DSP6713_SYSTEM"
   (ProjectVersion "19981106")
-  (SoftwareVersion "22.1 S005 (4113640)  [6/9/2023]-[10/23/25]")
+  (SoftwareVersion "22.1 S005 (4113640)  [6/9/2023]-[10/24/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -103,10 +103,12 @@
     (DRC_Run_Simulation_Rules "FALSE")
     (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
     (DRC_Run_Custom_Rules "FALSE")
-    (DRC_Report_File "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.DRC")
+    (DRC_Report_File
+       "d:\cadence\projcet\dsp6713minisystemboard\hardwave\dsp6713_system.drc")
     (BOM_Scope "0")
     (BOM_Mode "0")
-    (BOM_Report_File "D:\CADENCE\PROJCET\DSP6713_SYSTEM\DSP6713_SYSTEM.BOM")
+    (BOM_Report_File
+       "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\DSP6713_System.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB FootPrint}")
@@ -121,7 +123,7 @@
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
-    ("Allegro Netlist Output Board File" ".\allegro\dsp6713_system.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\dsp6713systemmini.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
     ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
@@ -136,6 +138,12 @@
     (File ".\allegro\dsp6713systemmini.brd"
       (Type "Board File")
       (OutputBoard ".\allegro\dsp6713systemmini.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\dsp6713_system.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\dsp6713_system.brd")
+      (InputBoard ".\allegro\dsp6713systemmini.brd")
       (NetListPath ".\allegro")
       (ActiveBoard "0")))
   (Folder "Outputs"
@@ -161,7 +169,23 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\genfeed.log")))
   (PartMRUSelector
     (M25-HOLE
       (FullPartName "M25-HOLE.Normal")
@@ -280,38 +304,16 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\dsp6713_system.dsn")
-      (Path "Design Resources" ".\dsp6713_system.dsn" "CLOCK")
-      (Path "Design Resources" ".\dsp6713_system.dsn" "POWER")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\basic.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\crystal.olb")
-      (Path "Design Resources" "Library" "D:\Cadence\lib\sch\OPA.OLB")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\connector.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\power.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\test.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\memory.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\maincontrol.olb")
-      (Path "Design Resources" "Library" "d:\cadence\lib\sch\codec.olb")
       (Path "Layout")
       (Path "Outputs")
-      (Select "Design Resources" ".\dsp6713_system.dsn" "CLOCK" "CY2303"))
+      (Path "Logs")
+      (Select "Design Resources" ".\dsp6713_system.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 265 0 600"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1347 26 620")
-        (Scroll "-168 0")
-        (Zoom "100")
-        (Occurrence "/CLK_SOURCE"))
-      (Path
-         "D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
-      (Schematic "CLOCK")
-      (Page "CY2303")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 243 0 686"))
+      (Tab 0)))
   (LastUsedLibraryBrowseDirectory
      "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

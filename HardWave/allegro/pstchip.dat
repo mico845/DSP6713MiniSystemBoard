@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 22.1.0 d001Oct-23-2025 at 18:47:36}
-primitive 'C_POL_CAP1206_10UF';
+{ Using PSTWRITER 22.1.0 d001Oct-24-2025 at 15:54:15}
+primitive 'C_CAP0603_0.1UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -10,9 +10,9 @@ primitive 'C_POL_CAP1206_10UF';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='C_POL';
-    JEDEC_TYPE='CAP1206';
-    VALUE='10uF';
+    PART_NAME='C';
+    JEDEC_TYPE='CAP0603';
+    VALUE='0.1uF';
   end_body;
 end_primitive;
 primitive 'C_CAP0603_220NF';
@@ -105,7 +105,7 @@ primitive 'C_CAP0603_220PF';
     VALUE='220pF';
   end_body;
 end_primitive;
-primitive 'C_CAP0603_0.1UF';
+primitive 'C_POL_CAP1206_10UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -115,9 +115,9 @@ primitive 'C_CAP0603_0.1UF';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='C';
-    JEDEC_TYPE='CAP0603';
-    VALUE='0.1uF';
+    PART_NAME='C_POL';
+    JEDEC_TYPE='CAP1206';
+    VALUE='10uF';
   end_body;
 end_primitive;
 primitive 'C_CAP0805_1UF';
@@ -163,6 +163,51 @@ primitive 'C_CAP0603_0.01UF';
     PART_NAME='C';
     JEDEC_TYPE='CAP0603';
     VALUE='0.01uF';
+  end_body;
+end_primitive;
+primitive 'C_POL_CAPMP3P7X2P8_2P1N_KEM_20UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C_POL';
+    JEDEC_TYPE='CAPMP3P7X2P8_2P1N_KEM';
+    VALUE='20uF';
+  end_body;
+end_primitive;
+primitive 'C_POL_CAPMP3P7X2P8_2P1N_KEM_47UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C_POL';
+    JEDEC_TYPE='CAPMP3P7X2P8_2P1N_KEM';
+    VALUE='47uF';
+  end_body;
+end_primitive;
+primitive 'C_POL_CAPMP3P7X2P8_2P1N_KEM_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C_POL';
+    JEDEC_TYPE='CAPMP3P7X2P8_2P1N_KEM';
+    VALUE='10uF';
   end_body;
 end_primitive;
 primitive 'C_CAP0603_2.2NF';
@@ -435,6 +480,30 @@ primitive 'HEADER 7X2_0_CON_HDR254DIP_7X2MM_HEADER 7X2';
     VALUE='HEADER 7x2';
   end_body;
 end_primitive;
+primitive 'CON5 PWR DIN-422_CON_MPC4001B_DIN422MM_DIN-422';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON5 PWR DIN-422';
+    JEDEC_TYPE='CON_MPC4001B_DIN422MM';
+    VALUE='DIN-422';
+  end_body;
+end_primitive;
 primitive 'EMI FILTER 25MHZ SMD_FIL_TDK_MEM2012S_4_2P0X1P25_MEM2012S25R0T001, 25MHZ, 30DB';
   pin
     'GND#2':
@@ -647,6 +716,21 @@ primitive 'R_RES0603_10K';
     VALUE='10K';
   end_body;
 end_primitive;
+primitive 'R_RES0603_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES0603';
+    VALUE='1K';
+  end_body;
+end_primitive;
 primitive 'R_RES0603_0';
   pin
     '1':
@@ -834,6 +918,18 @@ primitive 'SW_SW_KEY6X6DIPMM_DSP-RESET';
     PART_NAME='SW';
     JEDEC_TYPE='SW_KEY6x6DIPMM';
     VALUE='DSP-RESET';
+  end_body;
+end_primitive;
+primitive 'TP_SS_TPS200D90_TP_SS';
+  pin
+    'TP':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TP_SS';
+    JEDEC_TYPE='TPS200D90';
+    VALUE='TP_SS';
   end_body;
 end_primitive;
 primitive 'TMS320C6713GDP_BGA272_TMS320C6713BGDP_TMS320C6713BGDP';
@@ -1906,6 +2002,48 @@ primitive 'CS4272_TSSOP65P_28_CS4272';
     PART_NAME='CS4272';
     JEDEC_TYPE='TSSOP65P_28';
     VALUE='CS4272';
+  end_body;
+end_primitive;
+primitive 'AMS1117_SOT223_3P_4_AMS1117_3V3';
+  pin
+    'GND/ADJ':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VOUT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'TAB':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='AMS1117';
+    JEDEC_TYPE='SOT223_3P_4';
+    VALUE='AMS1117_3V3';
+  end_body;
+end_primitive;
+primitive 'AMS1117_SOT223_3P_4_AMS1117_ADJ';
+  pin
+    'GND/ADJ':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VOUT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'TAB':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='AMS1117';
+    JEDEC_TYPE='SOT223_3P_4';
+    VALUE='AMS1117_ADJ';
   end_body;
 end_primitive;
 primitive 'MT48LC2M32B2B5-6_TSOP86_11P76X22P22_MRN_MT48LC2M32B2';

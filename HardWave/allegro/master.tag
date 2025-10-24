@@ -1,1 +1,1 @@
-DSP6713SystemMini.brd
+dsp6713systemmini.brd

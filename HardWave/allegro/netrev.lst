@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : DSP6713SystemMini.brd                         )
+(    Drawing          : dsp6713systemmini.brd                         )
 (    Software Version : 22.1S005                                      )
-(    Date/Time        : Thu Oct 23 23:39:18 2025                      )
+(    Date/Time        : Fri Oct 24 15:54:16 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro'
-Design Directory:            'D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro'
-Old design name:             'D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/DSP6713SystemMini.brd'
-New design name:             'D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/DSP6713SystemMini.brd'
+Schematic directory:         'D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro'
+Design Directory:            'D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro'
+Old design name:             'D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd'
+New design name:             'D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/dsp6713systemmini.brd'
 
-CmdLine: netrev -$ -i D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro -y 1 -h -q netrev_constraint_report.xml D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/#Taaaaai20652.tmp
+CmdLine: netrev -y 1 -i D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro -q netrev_constraint_report.xml D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/#Taaaabb22144.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstchip.dat 
-   Finished reading D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstchip.dat (00:00:00.09)
-Starting to read D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstxprt.dat 
-   Finished reading D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstxprt.dat (00:00:00.00)
-Starting to read D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstxnet.dat 
-   Finished reading D:/Cadence/Projcet/DSP6713MiniSystemBoard/HardWave/allegro/pstxnet.dat (00:00:00.03)
+Starting to read D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstchip.dat 
+   Finished reading D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstchip.dat (00:00:00.01)
+Starting to read D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstxprt.dat 
+   Finished reading D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstxnet.dat 
+   Finished reading D:/CADENCE/PROJCET/DSP6713MINISYSTEMBOARD/HARDWAVE/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -55,7 +55,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Oct 23 23:39:18 2025
+netrev run on Oct 24 15:54:16 2025
    DESIGN NAME : 'DSP6713_SYSTEM'
    PACKAGING ON Jun  9 2023 21:25:16
 
@@ -80,6 +80,6 @@ netrev run on Oct 23 23:39:18 2025
  No oversight detected
  No warning detected
 
-cpu time      0:02:50
-elapsed time  0:00:01
+cpu time      0:00:41
+elapsed time  0:00:00
 

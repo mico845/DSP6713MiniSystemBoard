@@ -1,0 +1,825 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [
+		{
+			"Name" : "C134",
+			"C_PATH" : "@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260902@basic.\\c.normal\\(chips)",
+			"Logical" : "C134",
+			"Physical" : "C135"
+		},
+		{
+			"Name" : "C135",
+			"C_PATH" : "@dsp6713_system.top(sch_1):codec@dsp6713_system.codec(sch_1):ins2260974@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C135",
+			"Physical" : "C134"
+		}
+	],
+	"Pin Swap" : [],
+	"Component Property" : [
+		{
+			"Name" : "C72",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1368@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C73",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins583@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C74",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2132@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C75",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9387@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C76",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9403@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C77",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9355@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C78",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins9371@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C79",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1922@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C80",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins814@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C81",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins839@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C82",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1691@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C83",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1776@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C84",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2658@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C85",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2746@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C86",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2908@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C87",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4254@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C88",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4222@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C89",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins8788@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C90",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2936@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C91",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4270@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C92",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3020@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C93",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3058@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C94",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3188@basic.\\c.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C95",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3204@basic.\\c_pol.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "J2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins4420@dsp6713_system.\\audio_rj_0.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R48",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1418@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R49",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1502@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R50",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins632@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R51",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins558@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R52",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1547@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R53",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins1584@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R54",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins732@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R55",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2006@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R56",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins757@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R57",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2626@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R58",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2724@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R59",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2816@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R60",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2832@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R61",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2848@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R62",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2864@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R63",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3004@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R64",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3082@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R65",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3172@basic.\\r.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4A",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins369@opa.\\ne5532adra.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4B",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins410@opa.\\ne5532adrb.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U5A",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins2698@opa.\\ne5532adra.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U5B",
+			"C_PATH" : "@dsp6713_system.top(sch_1):ad_in1@dsp6713_system.analog_input(sch_1):ins3036@opa.\\ne5532adrb.normal\\(chips)",
+			"PropName" : "PAGE",
+			"Logical" : "ANALOG_IN",
+			"Physical" : null
+		}
+	],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "C144",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14531@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C144",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14556@basic.\\c.normal\\(chips)",
+			"Logical" : "C145",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14725@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C146",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263372@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C147",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263388@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C148",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261686@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C149",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261702@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C150",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261718@basic.\\c.normal\\(chips)",
+			"Logical" : "C151",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570717@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C152",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570851@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C153",
+			"Physical" : null
+		},
+		{
+			"Name" : "C154",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264267@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C154",
+			"Physical" : null
+		},
+		{
+			"Name" : "C155",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264283@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C155",
+			"Physical" : null
+		},
+		{
+			"Name" : "C156",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262523@basic.\\c_pol.normal\\(chips)",
+			"Logical" : "C156",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips)",
+			"Logical" : "CN4",
+			"Physical" : null
+		},
+		{
+			"Name" : "R106",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262459@basic.\\r.normal\\(chips)",
+			"Logical" : "R106",
+			"Physical" : null
+		},
+		{
+			"Name" : "R107",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262475@basic.\\r.normal\\(chips)",
+			"Logical" : "R107",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572195@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572238@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP2",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP3",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572296@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP3",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP4",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572318@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP4",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP5",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572374@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP5",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP6",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572394@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP6",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP7",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572450@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP7",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP8",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572468@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP8",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP9",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572524@test.\\tp_ss.normal\\(chips)",
+			"Logical" : "TP9",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins34@power.\\ams1117.normal\\(chips)",
+			"Logical" : "U11",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261618@power.\\ams1117.normal\\(chips)",
+			"Logical" : "U12",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "GND1V2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):gnd1v2",
+			"Logical" : "GND1V2",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C144.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14531@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C144.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14531@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14556@basic.\\c.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14556@basic.\\c.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14725@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins14725@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263372@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263372@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263388@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2263388@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261686@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261686@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261702@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261702@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261718@basic.\\c.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261718@basic.\\c.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570717@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570717@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "VCC12VN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570851@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2570851@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "VCC12VN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C154.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264267@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C154.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264267@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC12VP",
+			"Physical" : null
+		},
+		{
+			"Name" : "C155.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264283@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C155.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2264283@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "VCC12VP",
+			"Physical" : null
+		},
+		{
+			"Name" : "C156.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262523@basic.\\c_pol.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "C156.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262523@basic.\\c_pol.normal\\(chips):\\1\\",
+			"Logical" : "GND1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4.5",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips):\\5\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4.4",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips):\\4\\",
+			"Logical" : "VCC12VP",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips):\\2\\",
+			"Logical" : "VCC12VN",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN4.3",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2576077@connector.\\con5 pwr din-422.normal\\(chips):\\3\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R106.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262459@basic.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R106.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262459@basic.\\r.normal\\(chips):\\1\\",
+			"Logical" : "VCC1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R107.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262475@basic.\\r.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R107.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2262475@basic.\\r.normal\\(chips):\\1\\",
+			"Logical" : "GND1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP1.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572195@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP2.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572238@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP3.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572296@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "VCC12VP",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP4.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572318@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP5.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572374@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "VCC12VN",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP6.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572394@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP7.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572450@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP8.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572468@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP9.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2572524@test.\\tp_ss.normal\\(chips):TP",
+			"Logical" : "VCC1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins34@power.\\ams1117.normal\\(chips):\\gnd\/adj\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins34@power.\\ams1117.normal\\(chips):VOUT",
+			"Logical" : "VCC3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.3",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins34@power.\\ams1117.normal\\(chips):VIN",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.3",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261618@power.\\ams1117.normal\\(chips):VIN",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.1",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261618@power.\\ams1117.normal\\(chips):\\gnd\/adj\\",
+			"Logical" : "GND1V2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.2",
+			"C_PATH" : "@dsp6713_system.top(sch_1):pwr@dsp6713_system.power(sch_1):ins2261618@power.\\ams1117.normal\\(chips):VOUT",
+			"Logical" : "VCC1V2",
+			"Physical" : null
+		}
+	]
+}

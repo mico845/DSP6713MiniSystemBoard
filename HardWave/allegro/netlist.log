@@ -1,16 +1,12 @@
-{ Using PSTWRITER 22.1.0 d001Oct-23-2025 at 18:47:36 }
+{ Using PSTWRITER 22.1.0 d001Oct-24-2025 at 15:54:15 }
 
-#1 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package EMI FILTER 25MHZ SMD , FL1: TOP, DSP6713_GPIO_JTAG (58.42, 63.50).
-#2 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package EMI FILTER 25MHZ SMD , FL1: TOP, DSP6713_GPIO_JTAG (58.42, 63.50).
-#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package AUDIO_RJ_0 , J2: ANALOG_INPUT, ANALOG_INPUT (330.20, 142.24).
-#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package AUDIO_RJ_0 , J2: ANALOG_INPUT, ANALOG_INPUT (330.20, 142.24).
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... D:\CADENCE\PROJCET\DSP6713_SYSTEM\allegro\pstchip.dat
+Loading... D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro\pstchip.dat
 
-Loading... D:\CADENCE\PROJCET\DSP6713_SYSTEM\allegro\pstchip.dat
+Loading... D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro\pstchip.dat
 
-Loading... D:\CADENCE\PROJCET\DSP6713_SYSTEM\allegro\pstxprt.dat
+Loading... D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro\pstxprt.dat
 
-Loading... D:\CADENCE\PROJCET\DSP6713_SYSTEM\allegro\pstxnet.dat
+Loading... D:\CADENCE\PROJCET\DSP6713MINISYSTEMBOARD\HARDWAVE\allegro\pstxnet.dat
 packaging the design view...

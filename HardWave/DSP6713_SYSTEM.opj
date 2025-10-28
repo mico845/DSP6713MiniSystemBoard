@@ -1,29 +1,9 @@
 (ExpressProject "DSP6713_SYSTEM"
   (ProjectVersion "19981106")
-  (SoftwareVersion "22.1 S005 (4113640)  [6/9/2023]-[10/24/25]")
+  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/28/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library"
-      (File "d:\cadence\lib\sch\basic.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\crystal.olb"
-        (Type "Schematic Library"))
-      (File "D:\Cadence\lib\sch\OPA.OLB"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\connector.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\power.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\test.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\memory.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\maincontrol.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\codec.olb"
-        (Type "Schematic Library"))
-      (File "d:\cadence\lib\sch\filter.olb"
-        (Type "Schematic Library")))
+    (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
@@ -104,7 +84,7 @@
     (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
     (DRC_Run_Custom_Rules "FALSE")
     (DRC_Report_File
-       "d:\cadence\projcet\dsp6713minisystemboard\hardwave\dsp6713_system.drc")
+       "e:\pcb\cadence\project\dsp6713minisystemboard\hardwave\dsp6713system.DRC")
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
@@ -120,7 +100,7 @@
     (BOM_View_Output "FALSE")
     (Netlist_TAB "0")
     ("Create Allegro Netlist" "TRUE")
-    ("View Allegro Netlist Files" "FALSE")
+    ("View Allegro Netlist Files" "TRUE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
     ("Allegro Netlist Output Board File" ".\allegro\dsp6713systemmini.brd")
@@ -159,7 +139,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\dsp6713system.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -173,19 +155,19 @@
     (File ".\allegro\netlist.log"
       (Type "Log File")
       (LogFile
-         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\netlist.log"))
+         "E:\PCB\Cadence\Project\DSP6713MiniSystemBoard\HardWave\allegro\netlist.log"))
     (File ".\allegro\netrev.lst"
       (Type "Log File")
       (LogFile
-         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\netrev.lst"))
+         "E:\PCB\Cadence\Project\DSP6713MiniSystemBoard\HardWave\allegro\netrev.lst"))
     (File ".\allegro\eco.txt"
       (Type "Log File")
       (LogFile
-         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\eco.txt"))
+         "E:\PCB\Cadence\Project\DSP6713MiniSystemBoard\HardWave\allegro\eco.txt"))
     (File ".\allegro\genfeed.log"
       (Type "Log File")
       (LogFile
-         "D:\Cadence\Projcet\DSP6713MiniSystemBoard\HardWave\allegro\genfeed.log")))
+         "E:\PCB\Cadence\Project\DSP6713MiniSystemBoard\HardWave\allegro\genfeed.log")))
   (PartMRUSelector
     (M25-HOLE
       (FullPartName "M25-HOLE.Normal")
@@ -299,7 +281,7 @@
       (LibraryName
          "E:\PROGRAM FILES\CADENCESPB\SPB 22.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "11208")
+  (MPSSessionName "Ricky")
   (GlobalState
     (FileView
       (Path "Design Resources")
@@ -312,8 +294,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 243 0 686"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 709"))
       (Tab 0)))
   (LastUsedLibraryBrowseDirectory
      "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice 资源"
+    (Folder "仿真配置文件")
+    (Folder "模型库"
+      (Sort User))
+    (Folder "激励文件"
+      (Sort User))
+    (Folder "包括文件"
+      (Sort User)))
+  (Folder "日志"))

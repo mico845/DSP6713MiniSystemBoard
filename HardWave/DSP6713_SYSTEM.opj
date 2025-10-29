@@ -1,6 +1,6 @@
 (ExpressProject "DSP6713_SYSTEM"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/28/25]")
+  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/29/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -286,16 +286,110 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\dsp6713_system.dsn")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "TOP")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "ANALOG_INPUT")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "ANALOG_OUTPUT")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "CLOCK")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "CODEC")
+      (Path "Design Resources" ".\dsp6713_system.dsn" "POWER")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\dsp6713_system.dsn"))
+      (Select "Design Resources" ".\dsp6713_system.dsn" "CODEC" "CS4272"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 709"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 277 0 589"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "-94 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "TOP")
+      (Page "DSP6713_GPIO_JTAG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "0 80")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "TOP")
+      (Page "DSP6713_RAM_FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "-94 190")
+        (Zoom "100")
+        (Occurrence "/PWR"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "POWER")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "196 109")
+        (Zoom "94")
+        (Occurrence "/AD_IN"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "ANALOG_INPUT")
+      (Page "ANALOG_INPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "0 421")
+        (Zoom "94")
+        (Occurrence "/DA_OUT"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "ANALOG_OUTPUT")
+      (Page "ANALOG_OUTPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "-122 0")
+        (Zoom "113")
+        (Occurrence "/CLK_SOURCE"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "CLOCK")
+      (Page "CY2303"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "-94 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "TOP")
+      (Page "DSP6713_MCBSP_I2C"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
+        (Scroll "282 72")
+        (Zoom "200")
+        (Occurrence "/CODEC"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "CODEC")
+      (Page "CS4272")))
   (LastUsedLibraryBrowseDirectory
      "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
   (ISPCBBASICLICENSE "false")

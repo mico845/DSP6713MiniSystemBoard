@@ -1,6 +1,6 @@
 (ExpressProject "DSP6713_SYSTEM"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/29/25]")
+  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/30/25]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -295,18 +295,29 @@
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
-      (Select "Design Resources" ".\dsp6713_system.dsn" "CODEC" "CS4272"))
+      (Select "Design Resources" ".\dsp6713_system.dsn" "POWER" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 277 0 589"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 319 0 589"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "-94 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-73 0")
+        (Zoom "100")
+        (Occurrence "/CODEC"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "CODEC")
+      (Page "CS4272"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-73 25")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -316,9 +327,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "0 80")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "2323 1012")
+        (Zoom "220")
         (Occurrence "/"))
       (Path
          "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
@@ -327,8 +338,19 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "-94 190")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-202 -8")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "TOP")
+      (Page "DSP6713_PWR_DECOUPLING"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-73 30")
         (Zoom "100")
         (Occurrence "/PWR"))
       (Path
@@ -338,41 +360,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "196 109")
-        (Zoom "94")
-        (Occurrence "/AD_IN"))
-      (Path
-         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
-      (Schematic "ANALOG_INPUT")
-      (Page "ANALOG_INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "0 421")
-        (Zoom "94")
-        (Occurrence "/DA_OUT"))
-      (Path
-         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
-      (Schematic "ANALOG_OUTPUT")
-      (Page "ANALOG_OUTPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "-122 0")
-        (Zoom "113")
-        (Occurrence "/CLK_SOURCE"))
-      (Path
-         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
-      (Schematic "CLOCK")
-      (Page "CY2303"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "-94 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-73 180")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -382,14 +371,36 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1384 24 607")
-        (Scroll "282 72")
-        (Zoom "200")
-        (Occurrence "/CODEC"))
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-228 -22")
+        (Zoom "218")
+        (Occurrence "/"))
       (Path
          "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
-      (Schematic "CODEC")
-      (Page "CS4272")))
+      (Schematic "TOP")
+      (Page "DSP6713_PWR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "170 580")
+        (Zoom "100")
+        (Occurrence "/DA_OUT"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "ANALOG_OUTPUT")
+      (Page "ANALOG_OUTPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1342 24 607")
+        (Scroll "-269 -6")
+        (Zoom "47")
+        (Occurrence "/AD_IN"))
+      (Path
+         "E:\PCB\CADENCE\PROJECT\DSP6713MINISYSTEMBOARD\HARDWAVE\DSP6713_SYSTEM.DSN")
+      (Schematic "ANALOG_INPUT")
+      (Page "ANALOG_INPUT")))
   (LastUsedLibraryBrowseDirectory
      "E:\Program Files\CadenceSPB\SPB 22.1\tools\capture\library")
   (ISPCBBASICLICENSE "false")
